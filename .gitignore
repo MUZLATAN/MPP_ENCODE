@@ -1,0 +1,3 @@
+dev/*
+build/*
+cmake-build-debug/*

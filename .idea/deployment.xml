@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData">
+    <serverData>
+      <paths name="Remote Host (27276516-5b9a-44d3-9149-981c7715486c)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/tmp/tmp.fTETmCX7Lb" local="$PROJECT_DIR$" />
+          </mappings>
+          <excludedPaths>
+            <excludedPath local="true" path="$PROJECT_DIR$/cmake-build-debug" />
+          </excludedPaths>
+        </serverdata>
+      </paths>
+      <paths name="Remote Host (3615f21c-bb16-4ab9-be41-9b41397feb46)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/tmp/tmp.MJg5cepfbg" local="$PROJECT_DIR$" />
+          </mappings>
+          <excludedPaths>
+            <excludedPath local="true" path="$PROJECT_DIR$/cmake-build-debug" />
+          </excludedPaths>
+        </serverdata>
+      </paths>
+      <paths name="Remote Host (39375276-7caf-48c2-b877-16d8bfc02b94)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/tmp/tmp.a5Ux94icF5" local="$PROJECT_DIR$" />
+          </mappings>
+          <excludedPaths>
+            <excludedPath local="true" path="$PROJECT_DIR$/cmake-build-debug" />
+          </excludedPaths>
+        </serverdata>
+      </paths>
+      <paths name="Remote Host (798bedf7-8fb3-4cb5-bdfc-63e6600847a6)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/tmp/MPPEncode" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="Remote Host (88f80a68-fff0-42cb-9695-7ed9d99c80de)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/tmp/tmp.PR52BoLdj1" local="$PROJECT_DIR$" />
+          </mappings>
+          <excludedPaths>
+            <excludedPath local="true" path="$PROJECT_DIR$/cmake-build-debug" />
+          </excludedPaths>
+        </serverdata>
+      </paths>
+      <paths name="Remote Host (db485502-cc72-4dd0-89a0-d6990b250612)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/tmp/tmp.Glsx4Mxm6m" local="$PROJECT_DIR$" />
+          </mappings>
+          <excludedPaths>
+            <excludedPath local="true" path="$PROJECT_DIR$/cmake-build-debug" />
+          </excludedPaths>
+        </serverdata>
+      </paths>
+      <paths name="Remote Host (e396bf2e-21c1-42f6-a248-7eeedf374aec)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/tmp/tmp.sEjOUH7t3v" local="$PROJECT_DIR$" />
+          </mappings>
+          <excludedPaths>
+            <excludedPath local="true" path="$PROJECT_DIR$/cmake-build-debug" />
+          </excludedPaths>
+        </serverdata>
+      </paths>
+      <paths name="Remote Host (f5bc3473-2695-483f-b809-bdbd1b1a3d9a)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/tmp/tmp.g6XkIqxFSh" local="$PROJECT_DIR$" />
+          </mappings>
+          <excludedPaths>
+            <excludedPath local="true" path="$PROJECT_DIR$/cmake-build-debug" />
+          </excludedPaths>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>
